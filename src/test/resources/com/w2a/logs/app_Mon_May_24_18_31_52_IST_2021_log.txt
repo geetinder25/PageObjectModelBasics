@@ -1,0 +1,2 @@
+INFO    2021-05-24 18:31:52,531 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 18:31:54,521 [main] com.w2a.base.Page  - Clicking on element: createAccountBtn_CSS

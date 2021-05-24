@@ -1,0 +1,2 @@
+INFO    2021-05-24 18:31:44,407 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 18:31:50,551 [main] com.w2a.base.Page  - Clicking on element: crmLink_CSS

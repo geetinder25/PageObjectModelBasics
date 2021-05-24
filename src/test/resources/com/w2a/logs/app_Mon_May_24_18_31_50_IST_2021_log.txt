@@ -1,0 +1,2 @@
+INFO    2021-05-24 18:31:50,657 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 18:31:52,529 [main] com.w2a.base.Page  - Clicking on element: accountsTab_CSS

@@ -1,0 +1,5 @@
+INFO    2021-05-24 18:40:17,109 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 18:40:17,110 [main] com.w2a.base.Page  - config file loaded
+DEBUG   2021-05-24 18:40:17,111 [main] com.w2a.base.Page  - OR file loaded
+DEBUG   2021-05-24 18:40:25,396 [main] com.w2a.base.Page  - firefox launched
+DEBUG   2021-05-24 18:40:28,259 [main] com.w2a.base.Page  - Navigated to: https://www.zoho.com/
