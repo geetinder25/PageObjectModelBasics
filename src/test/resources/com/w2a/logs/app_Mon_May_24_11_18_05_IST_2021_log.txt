@@ -1,0 +1,2 @@
+INFO    2021-05-24 11:18:05,790 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 11:18:06,384 [main] com.w2a.base.Page  - Clicking on element: loginLink_CSS

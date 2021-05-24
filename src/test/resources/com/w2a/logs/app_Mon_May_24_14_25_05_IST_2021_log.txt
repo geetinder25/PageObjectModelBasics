@@ -1,0 +1,1 @@
+INFO    2021-05-24 14:25:05,988 [main] com.w2a.base.Page  - Logs started

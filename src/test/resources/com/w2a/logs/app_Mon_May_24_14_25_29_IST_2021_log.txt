@@ -1,0 +1,8 @@
+INFO    2021-05-24 14:25:29,916 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 14:25:30,625 [main] com.w2a.base.Page  - Typing in: accountName_CSS entered value as: Geetinder
+DEBUG   2021-05-24 14:25:30,968 [main] com.w2a.base.Page  - Taking screenshot
+DEBUG   2021-05-24 14:25:30,985 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG   2021-05-24 14:25:30,985 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG   2021-05-24 14:25:30,986 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2021-05-24 14:25:30,987 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2021-05-24 14:25:30,987 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhill/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

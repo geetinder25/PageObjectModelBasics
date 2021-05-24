@@ -1,0 +1,5 @@
+INFO    2021-05-24 11:07:47,731 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-24 11:07:47,883 [main] com.w2a.base.Page  - Typing in: email_CSS entered value as: geetudhillon@yahoo.com
+DEBUG   2021-05-24 11:07:47,953 [main] com.w2a.base.Page  - Clicking on element: nextBtn_CSS
+DEBUG   2021-05-24 11:07:48,099 [main] com.w2a.base.Page  - Typing in: password_CSS entered value as: Infosys01+
+DEBUG   2021-05-24 11:07:48,201 [main] com.w2a.base.Page  - Clicking on element: signInBtn_CSS
